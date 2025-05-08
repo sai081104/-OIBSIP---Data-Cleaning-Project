@@ -1,0 +1,18 @@
+Dataset Preview:
+        id  name  host_id     neighbourhood  price  room_type  reviews_per_month
+0   2539   Clean room 2787  Manhattan     150    Private room 1.23
+1   2595   Nice spot 2845  Brooklyn      89     Entire home  0.15
+2   3647   Cozy Apt  4632  Manhattan     200    Entire home  3.56
+
+Missing Values:
+ id                   0
+ name                 16
+ host_id              0
+ neighbourhood        0
+ price                0
+ room_type            0
+ reviews_per_month    0
+
+Remaining Missing Values:
+ name                 16
+ last_review          0
